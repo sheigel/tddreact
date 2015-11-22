@@ -10,6 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage":"https://github.com/sheigel/tddreact",
   "devDependencies": {
     "babel-cli": "^6.1.18",
     "babel-core": "^6.1.21",
